@@ -1,0 +1,36 @@
+.metaver-mint{
+    margin-top: 50px;
+}
+
+.metaver-mint input[type="text"]{
+    outline: none;
+    border: none;
+    margin: 10px;
+    width: 75px;
+    height: 20px;
+    border: 2px solid aqua;
+    padding: 7px;
+    border-radius: 7px;
+    background-color: black;
+    color: white;
+}
+
+.metaver-mint input[type="text"]::placeholder{
+
+    color: rgb(196, 187, 187);
+    text-transform: capitalize;
+    font-weight: bold;
+}
+
+.metaver-mint button {
+    outline: none;
+    border: none;
+    width: 150px;
+    padding: 7px;
+    margin-top: 20px;
+    color: wheat;
+    background-color: rgb(9, 165, 255);
+    font-weight: bold;
+    text-transform: capitalize;
+    border-radius: 20px;
+}
